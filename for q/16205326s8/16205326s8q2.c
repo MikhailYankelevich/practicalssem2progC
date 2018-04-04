@@ -3,7 +3,7 @@
 //  for q
 //
 //  Created by Mikhail Yankelevich on 03/04/2018.
-//  Copyright © 2018 Mikhail Yankelevich. All rights reserved.
+// 
 //
 
 #include <stdio.h>
